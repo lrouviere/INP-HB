@@ -2,6 +2,18 @@
 title: Cours
 ---
 
+# 1. <u> Compléments machine learning - SVM <u>
+
+Cette partie est extraite du cours de **Machine Learning** disponible à l'url <https://lrouviere.github.io/machine_learning/>. On se focalisera ici sur les **machines à supports vecteurs**.
+
+### Documents de cours
+
+- [slides]()
+- [slides au format rapport](cours_article_don_des.pdf)
+- [tutoriel]()
+
+<!---
+
 # 1. <u> Données déséquilibrées <u> 
 
 ### Documents de cours
@@ -71,15 +83,6 @@ Cette partie est basée entièrement sur les supports de cours de Benoît Thieur
 - Tutoriel 4 : Clustering spectral. Fichiers [Rmd](tuto4_std.Rmd), [html](tuto4_std.nb.html)
 
 
-<!--
-
-- Exemple de fichier de style css pour notebook : [styles.css](https://lrouviere.github.io/ml_lecture/styles.css)
-- Estimation du risque avec caret : [Rmd](https://lrouviere.github.io/ml_lecture/sujet_est_risque_caret.Rmd), [html](https://lrouviere.github.io/ml_lecture/sujet_est_risque_caret.nb.html)
-- SVM : [Rmd](https://lrouviere.github.io/ml_lecture/sujet_svm.Rmd), [html](https://lrouviere.github.io/ml_lecture/sujet_svm.nb.html)
-- Agrégation : [Rmd](https://lrouviere.github.io/ml_lecture/agregation.Rmd), [html](https://lrouviere.github.io/ml_lecture/agregation.nb.html)
-- Réseaux de neurones : [Rmd](https://lrouviere.github.io/ml_lecture/sujet_reseau_neurones.Rmd), [html](https://lrouviere.github.io/ml_lecture/sujet_reseau_neurones.nb.html)
-
---->
 
 ### Données
 
@@ -135,3 +138,6 @@ Cette partie est basée entièrement sur les supports de cours de Benoît Thieur
 
 
  ---
+
+--->
+
