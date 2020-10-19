@@ -10,7 +10,7 @@ Cette partie est extraite du cours de **Machine Learning** disponible à l'url <
 
 - [slides]()
 - [slides au format rapport](cours_article_don_des.pdf)
-- [tutoriel]()
+- [tutoriel](https://lrouviere.github.io/TUTO_ML/)
 
 <!---
 
