@@ -8,8 +8,8 @@ Cette partie est extraite du cours de **Machine Learning** disponible à l'url <
 
 ### Documents de cours
 
-- [slides]()
-- [slides au format rapport](cours_article_don_des.pdf)
+- [slides](cours_svm.pdf)
+- [slides au format rapport](cours_svm_article.pdf)
 - [tutoriel](https://lrouviere.github.io/TUTO_ML/)
 
 <!---
