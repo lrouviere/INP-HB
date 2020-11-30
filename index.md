@@ -12,21 +12,19 @@ Cette partie est extraite du cours de **Machine Learning** disponible à l'url <
 - [slides au format rapport](cours_svm_article.pdf)
 - [tutoriel](https://lrouviere.github.io/TUTO_ML/)
 
-<!---
 
-# 1. <u> Données déséquilibrées <u> 
+# 2. <u> Données déséquilibrées <u> 
 
 ### Documents de cours
 
 - [slides](cours_don_des.pdf)
 - [slides au format rapport](cours_article_don_des.pdf)
+- [tutoriel](https://lrouviere.github.io/TUTO_ML/dondes.html)
 
-### Exercices, notebook
-
-- Tutoriel 1 : [Rmd](stu_tuto1_don_des.Rmd), [html](stu_tuto1_don_des.nb.html)
-- [Correction](tuto1_don_des.html)
 
  ---
+
+<!---
 
 # 2. <u> Grande dimension <u> 
 
