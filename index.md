@@ -12,6 +12,7 @@ Cette partie est extraite du cours de **Machine Learning** disponible à l'url <
 - [slides au format rapport](cours_svm_article.pdf)
 - [tutoriel](https://lrouviere.github.io/TUTO_ML/)
 
+ ---
 
 # 2. <u> Données déséquilibrées <u> 
 
@@ -22,7 +23,6 @@ Cette partie est extraite du cours de **Machine Learning** disponible à l'url <
 - [tutoriel](https://lrouviere.github.io/TUTO_ML/dondes.html)
 
 
- ---
 
 <!---
 
