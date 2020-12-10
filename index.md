@@ -29,6 +29,11 @@ Cette partie est extraite du cours de **Machine Learning** disponible à l'url <
 - [slides](cours_graphes.pdf)
 - [slides au format rapport](cours_article_graphes.pdf)
 - [tutoriel](https://lrouviere.github.io/TUTO_GRAPHES)
+- données pour le tutoriel :
+    - [Media edges](data/Dataset1-Media-Example-EDGES.csv)
+    - [Media nodes](data/Dataset1-Media-Example-NODES.csv)
+    - [Amis](data/Friendship-network_data_2013.csv)
+    - [Les misérables](data/lesmis.gml)
 
 <!---
 
