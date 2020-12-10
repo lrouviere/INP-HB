@@ -22,7 +22,13 @@ Cette partie est extraite du cours de **Machine Learning** disponible à l'url <
 - [slides au format rapport](cours_article_don_des.pdf)
 - [tutoriel](https://lrouviere.github.io/TUTO_ML/dondes.html)
 
+ ---
 
+# 3. <u> Graphmining <u> 
+
+- [slides](cours_graphes.pdf)
+- [slides au format rapport](cours_article_graphes.pdf)
+- [tutoriel](https://lrouviere.github.io/TUTO_GRAPHES)
 
 <!---
 
