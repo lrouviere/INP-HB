@@ -17,7 +17,7 @@ Cette partie est extraite du cours de **Machine Learning** disponible à l'url <
 # 2. <u> Données déséquilibrées <u> 
 
 On considère le cadre supervisé avec une variable à expliquer dont les modalités sont déséquilibrées (maladie rare, détection de fraudes, détection de churn…). 
-Les algorithmes machine learning traditionnels peuvent être mis en difficulté dans ce cadre, notamment pour détecter la classe minoritaire. L’objet de ce cours est de présenter les bonnes pratiques à utiliser dans ce contexte. Il se concentre notamment sur les critères adaptés au cas de données déséquilibrées ainsi sur quelques algorithmes de ré-équilibrage.
+Les algorithmes machine learning traditionnels peuvent être **mis en difficulté** dans ce cadre, notamment pour détecter la classe minoritaire. L’objet de ce cours est de présenter les bonnes pratiques à utiliser dans ce contexte. Il se concentre notamment sur les **critères** adaptés au cas de données déséquilibrées ainsi sur quelques **algorithmes de ré-équilibrage**.
 
 ### Documents de cours
 
