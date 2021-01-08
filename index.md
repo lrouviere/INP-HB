@@ -4,7 +4,7 @@ title: Cours
 
 # 1. <u> Compléments machine learning - SVM <u>
 
-Cette partie est extraite du cours de **Machine Learning** disponible à l'url <https://lrouviere.github.io/machine_learning/>. On se focalisera ici sur les **machines à supports vecteurs**.
+Cette partie est extraite du cours de **Machine Learning** disponible à l'url <https://lrouviere.github.io/machine_learning/>. On se focalisera ici sur les **machines à supports vecteurs** et le **gradient boosting**.
 
 ### Documents de cours
 
@@ -16,6 +16,9 @@ Cette partie est extraite du cours de **Machine Learning** disponible à l'url <
 
 # 2. <u> Données déséquilibrées <u> 
 
+On considère le cadre supervisé avec une variable à expliquer dont les modalités sont déséquilibrées (maladie rare, détection de fraudes, détection de churn…). 
+Les algorithmes machine learning traditionnels peuvent être mis en difficulté dans ce cadre, notamment pour détecter la classe minoritaire. L’objet de ce cours est de présenter les bonnes pratiques à utiliser dans ce contexte. Il se concentre notamment sur les critères adaptés au cas de données déséquilibrées ainsi sur quelques algorithmes de ré-équilibrage.
+
 ### Documents de cours
 
 - [slides](cours_don_des.pdf)
@@ -25,6 +28,14 @@ Cette partie est extraite du cours de **Machine Learning** disponible à l'url <
  ---
 
 # 3. <u> Graphmining <u> 
+
+On présente dans ce cours une introduction aux **graphes**. On introduira notamment 
+
+- les statistiques descriptives classiques associées à ces objets
+- les principaux modèles de graphe
+- la détection de communautés
+
+### Documents de cours
 
 - [slides](cours_graphes.pdf)
 - [slides au format rapport](cours_article_graphes.pdf)
