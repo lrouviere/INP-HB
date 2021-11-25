@@ -1,5 +1,6 @@
 ---
-title: Cours
+title: Cours Master Data Science / INP-HB / 2020-2021
+description: Laurent Rouvière
 ---
 
 # 1. <u> Compléments machine learning - SVM <u>
