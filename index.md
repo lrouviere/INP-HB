@@ -1,5 +1,5 @@
 ---
-title: Cours Master Data Science / INP-HB / 2020-2021
+title: Cours Master Data Science / INP-HB / 2021-2022
 description: Laurent Rouvière
 ---
 
